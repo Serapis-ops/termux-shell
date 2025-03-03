@@ -6,10 +6,6 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 
 clear
 echo -e "Created By \e[5mHTR-TECH"
-echo "----------------------------" | lolcat
-echo -e "\e[1mInstagram :@ tahmid.rayat"
-echo -e "\e[1mGithub: github.com/htr-tech/"
-echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
 |W|e|l|c|o|m|e|
